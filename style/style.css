@@ -1,0 +1,21 @@
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color:#eee;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
